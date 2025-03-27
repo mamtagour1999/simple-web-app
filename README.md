@@ -66,15 +66,15 @@ Error: Site cannot be reached
 
 Fix: Checked firewall rules and exposed the correct port 8081 in Docker.
 
-Final Outcome 🚀
+# Final Outcome 🚀
 
 Successfully deployed the web application using Jenkins & Docker.
 
-Website accessible on http://<IP>:8081.
+Website accessible on http://http://172.29.42.124:8081
 
 Fully automated deployment pipeline working smoothly.
 
-Future Enhancements
+# Future Enhancements
 
 Deploy the application on AWS EC2 instead of a local server.
 
@@ -83,6 +83,12 @@ Integrate Nginx as a reverse proxy.
 Add Kubernetes for container orchestration.
 
 Conclusion
+DOCKER_HUB -   https://hub.docker.com/repositories/msjabb1015
 
+  # output web page
 This project provided hands-on experience in CI/CD, Docker, and Jenkins. Overcoming the errors was a great learning experience, making the deployment process smooth and efficient.
+![image](https://github.com/user-attachments/assets/d00a0669-6a90-4426-a3e0-675074320275)
+![image](https://github.com/user-attachments/assets/463ff0a9-5bd5-48f4-9854-3d6097da27d6)
+![image](https://github.com/user-attachments/assets/0813d2bb-854b-4e72-b224-700de737c6e4)
+![image](https://github.com/user-attachments/assets/cf3a764d-64b8-429e-821a-e67392351996)
 
