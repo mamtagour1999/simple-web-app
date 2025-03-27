@@ -87,7 +87,9 @@ DOCKER_HUB -   https://hub.docker.com/repositories/msjabb1015
 
   # output web page
 This project provided hands-on experience in CI/CD, Docker, and Jenkins. Overcoming the errors was a great learning experience, making the deployment process smooth and efficient.
-![image](https://github.com/user-attachments/assets/d00a0669-6a90-4426-a3e0-675074320275)
+![image](https://github.com/user-attachments/assets/2290f191-66a6-4175-9b84-02595112f8e1)
+![image](https://github.com/user-attachments/assets/610ef589-cda5-4e04-bd64-786b28ca0548)
+
 ![image](https://github.com/user-attachments/assets/463ff0a9-5bd5-48f4-9854-3d6097da27d6)
 ![image](https://github.com/user-attachments/assets/0813d2bb-854b-4e72-b224-700de737c6e4)
 ![image](https://github.com/user-attachments/assets/cf3a764d-64b8-429e-821a-e67392351996)
